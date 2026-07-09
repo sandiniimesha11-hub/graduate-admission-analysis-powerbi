@@ -105,6 +105,6 @@ Contains:
 • Data Analysis
 
 ## Dashboard Preview
-<p align="center">
-  <img src="C:\Users\user\Desktop\Graduate Admission Analysis Dashboard\Images\dashboard_preview.png" alt="Dashboard Page Preview" width="100%">
-</p>
+![Dashboard Preview](Images/dashboard_preview.png)
+
+![Data Overview](Images/data_overview.png)
